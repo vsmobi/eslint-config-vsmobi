@@ -10,6 +10,18 @@
     "type": "git",
     "url": "https://github.com/vsmobi/eslint-config-vsmobi"
   },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "airbnb",
+    "javascript",
+    "styleguide",
+    "es2015",
+    "es2016",
+    "es2017",
+    "es2018"
+  ],
   "peerDependencies": {
     "eslint": "^6.8.0",
     "eslint-plugin-import": "^2.20.2",
