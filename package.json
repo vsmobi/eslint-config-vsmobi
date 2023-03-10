@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vsmobi",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "This is yet another eslint config based on airbnb config",
   "main": "index.js",
   "scripts": {
