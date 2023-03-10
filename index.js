@@ -1,5 +1,5 @@
 module.exports = {
     extends: [
-        './next.js'
+        './src/next.js'
     ]
 };
